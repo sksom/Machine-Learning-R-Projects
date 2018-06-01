@@ -1,7 +1,7 @@
 # Machine-Learning-R-Projects
 Various machine learning techniques programmed using R
 
-Libraries used : Keras, EBImage, nnet, ROCR, naivebayes, ggplot2, dplyr, psych, e1071 etc.
+Libraries used : Keras, EBImage, nnet, ROCR, naivebayes, ggplot2, dplyr, psych, e1071, caret etc.
 
 Techniques involve:
 1. Deep Learning (Neural Network)
